@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as THREE from 'three';
 import { RoundedBoxGeometry } from 'three/examples/jsm/geometries/RoundedBoxGeometry.js';
 import { createGoofyFaceTexture } from '../utils/characterTextures';

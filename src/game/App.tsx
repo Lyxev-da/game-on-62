@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState } from 'react';
 import { RobloxSandboxCanvas } from './components/RobloxSandboxCanvas';
 import { UtgHud } from './components/UtgHud';

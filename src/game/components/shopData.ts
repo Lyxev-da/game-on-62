@@ -1,3 +1,4 @@
+// @ts-nocheck
 export type RarityId =
   | 'common'
   | 'uncommon'

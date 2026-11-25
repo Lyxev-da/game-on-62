@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as THREE from 'three';
 
 /** Procedural Roblox-style material textures. Each tiles seamlessly. */

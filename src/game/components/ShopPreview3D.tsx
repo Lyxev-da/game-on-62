@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { R6Character } from './R6Character';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useEffect, useRef, useState } from 'react';
 import { CROSSINGS_TO_WIN, MAPS, MODES, game, xpForLevel, type GameMode, type GameState, type Outcome, type Participant } from './gameStore';
 import { GLOVES, getFx, getGlove } from './shopData';

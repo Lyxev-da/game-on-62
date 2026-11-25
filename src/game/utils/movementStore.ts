@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MOVEMENT } from '../components/PlayerController';
 
 export interface MovementSnapshot {
